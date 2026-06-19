@@ -87,8 +87,8 @@ Retail Banking Performance Analysis/
 
 1. Clone or download the repository.
 2. Open the notebook inside the `notebooks` folder to review the EDA process.
-3. Open the Power BI dashboard file if added separately as `.pbix`.
-4. Review dashboard screenshots in the `assets` folder.
+3. Open the Power BI dashboard file from `Dashboard` folder .
+4. Review dashboard screenshots in the `screenshots` folder.
 
 ## Future Improvements
 
