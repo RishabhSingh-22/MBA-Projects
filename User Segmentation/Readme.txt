@@ -239,5 +239,4 @@ Open MA.twbx in Tableau to explore the interactive dashboard.
 Refer to MOBILE ANALYTICS PROJECT.docx for in-depth analysis and findings.
 
 Authors
-
 Rishabh Singh
