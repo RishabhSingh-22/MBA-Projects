@@ -74,13 +74,13 @@ banking-dashboard-repo/
 ├── .gitignore
 ├── notebooks/
 │   └── BankCase_Final.ipynb
-├── assets/
+├── Screenshots/
 │   ├── home_page.png
 │   ├── loan_analysis.png
 │   ├── deposit_analysis.png
 │   └── summary_page.png
-└── docs/
-    └── project_summary.md
+└── Dashboard/
+    └── Banking Dashboard.pbix
 ```
 
 ## How to Use This Repository
