@@ -68,7 +68,7 @@ The Python notebook performs the following EDA steps:
 ## Repository Structure
 
 ```text
-banking-dashboard-repo/
+Retail Banking Performance Analysis/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -92,7 +92,6 @@ banking-dashboard-repo/
 
 ## Future Improvements
 
-- Add the final `.pbix` file to the repository.
 - Add DAX measure documentation.
 - Add filters for age group, loyalty classification, and risk weighting.
 - Add more executive-level insights on profitability and customer risk.
